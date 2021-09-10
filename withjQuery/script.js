@@ -25,7 +25,6 @@ function cnt(){
         value.css("color","#222");
     }
     value.text(count);
-
 }
 
 
