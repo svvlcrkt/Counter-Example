@@ -1,5 +1,14 @@
 # *Counter-Example*
 
+## *Summary About The Project*
+*Hello, all! 
+Now I am learning <b>JavaScript</b> and I am trying to make a project with the help of the video. This video is located under "Used Resources".
+This is my 2nd project in this series.  In addition, I am learning <b>jQuery</b>. I am uploading both <b>JavaScript</b> and <b>jQuery</b> files to the project files.
+[You can acces 1st projects files](https://github.com/svvlcrkt/Simple-Color-Flipper)*
+
+
+
+
 ## *Online demo:*
 *https://counter-example.netlify.app/*
 
